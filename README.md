@@ -19,6 +19,7 @@ I Love Typescript I Love Types 😊.
 <ul>
   <li><b>Discord.js</b></li>
   <li><b>express.js</b></li>
+  <li><b>Mongoose</b></li>
 </ul>
 
 ### My Projects Status: 

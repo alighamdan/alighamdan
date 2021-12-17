@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi I'm Ali And I'm From Yemen.
+### I'm 14 Years Old And I'm A Backend Develope
 
-<!--
-**alighamdan/alighamdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Languages:
 
-Here are some ideas to get you started:
+<ul>
+<li>Javascript</li>
+<li>Python (Basics)</li>
+<li>Typescript</li>
+<li>html</li>
+<li>Css</li>
+<li>C# (Basics)</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Noob in html,css 🙄 <br />
+I Love Typescript I Love Types 😊.
+
+## My Best Libraries
+<ul>
+  <li><b>Discord.js</b></li>
+  <li><b>express.js</b></li>
+</ul>
+
+### My Projects Status: 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alighamdan&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+### If You Need Support ♥ 
+### [NPM Account](https://www.npmjs.com/~laali)
+[Discord Support Server (Developer Support)](https://discord.gg/CuBnSfaFz3)

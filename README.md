@@ -25,7 +25,13 @@ I Love Typescript I Love Types 😊.
 ### My Projects Status: 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alighamdan&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api?username=alighamdan&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alighamdan&theme=monokai)
+
+![](https://discord.c99.nl/widget/theme-1/600031207782350858.png)
 
 ### If You Need Support ♥ 
 ### [NPM Account](https://www.npmjs.com/~laali)
 [Discord Support Server (Developer Support)](https://discord.gg/CuBnSfaFz3)
+
+<center><img src="https://profile-counter.glitch.me/alighamdan/count.svg" /></center>

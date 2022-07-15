@@ -1,5 +1,5 @@
 # Hi I'm Ali And I'm From Yemen.
-### I'm 14 Years Old And I'm A Backend Develope
+### I'm 15 Years Old And I'm A Backend Developer
 
 ## My Languages:
 
@@ -32,6 +32,6 @@ I Love Typescript I Love Types 😊.
 
 ### If You Need Support ♥ 
 ### [NPM Account](https://www.npmjs.com/~laali)
-[Discord Support Server (Developer Support)](https://discord.gg/CuBnSfaFz3)
+[My Server (potato) server](https://discord.gg/Kwz5p8dDuG)
 
 <center><img src="https://profile-counter.glitch.me/alighamdan/count.svg" /></center>

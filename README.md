@@ -9,7 +9,7 @@
 <li>Typescript</li>
 <li>html</li>
 <li>Css</li>
-<li>C# (Basics)</li>
+<li>C++ (Basics)</li>
 </ul>
 
 I'm Noob in html,css 🙄 <br />
@@ -28,10 +28,6 @@ I Love Typescript I Love Types 😊.
 ![](https://github-readme-stats.vercel.app/api?username=alighamdan&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alighamdan&theme=monokai)
 
-![](https://discord.c99.nl/widget/theme-1/600031207782350858.png)
-
-### If You Need Support ♥ 
-### [NPM Account](https://www.npmjs.com/~laali)
-[My Server (potato) server](https://discord.gg/Kwz5p8dDuG)
+### [NPM Account](https://www.npmjs.com/~ali_ye)
 
 <center><img src="https://profile-counter.glitch.me/alighamdan/count.svg" /></center>
